@@ -1,1 +1,1 @@
-print("Buenas")
+print("Buenass")
